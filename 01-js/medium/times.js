@@ -3,7 +3,7 @@ Write a function that calculates the time (in seconds) it takes for the JS code 
 Try running it for
 1. Sum from 1-100
 2. Sum from 1-100000
-3. Sum from 1-1000000000
+3. Sum from 1-1000000000huhuhuhuhuhhu
 Hint - use Date class exposed in JS
 */
 
